@@ -1,0 +1,127 @@
+[
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "400000",
+    "skills": "svn"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "179000",
+    "skills": "solidity"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "160515",
+    "skills": "couchbase"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "155486",
+    "skills": "datarobot"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "155000",
+    "skills": "golang"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "149000",
+    "skills": "mxnet"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "147633",
+    "skills": "dplyr"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "147500",
+    "skills": "vmware"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "146734",
+    "skills": "terraform"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "138500",
+    "skills": "twilio"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "134126",
+    "skills": "gitlab"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "129999",
+    "skills": "kafka"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "129820",
+    "skills": "puppet"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "127013",
+    "skills": "keras"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "125226",
+    "skills": "pytorch"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "124686",
+    "skills": "perl"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "124370",
+    "skills": "ansible"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "123950",
+    "skills": "hugging face"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "120647",
+    "skills": "tensorflow"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "118407",
+    "skills": "cassandra"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "118092",
+    "skills": "notion"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "117966",
+    "skills": "atlassian"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "116712",
+    "skills": "bitbucket"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "116387",
+    "skills": "airflow"
+  },
+  {
+    "job_title_short": "Data Analyst",
+    "salary_job": "115480",
+    "skills": "scala"
+  }
+]
