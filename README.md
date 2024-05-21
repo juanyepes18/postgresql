@@ -54,7 +54,7 @@ Here is the breakdown of the top data analyst jobs in 2023
 
 
 
-![Top Paying Roles](assets\Average_Annual_Salaries.png)
+![Top Paying Data Analyst Jobs](assets\Average_Annual_Salaries.png)
 
 
 
@@ -107,7 +107,7 @@ ORDER BY
 - Average Annual Salary: $189,000.
 Required Skills: Python, Confluence, Jira, Atlassian, Bitbucket, Git, R, SQL.
 
-![Top Paying Roles](python_graficas\Average_Annual_Salaries.png)
+![Top Paying Roles](assets\Top_Paying_Data_Analyst_Jobs.png)
 
 ### **What I Learned**
 
