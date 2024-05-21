@@ -32,7 +32,7 @@ plt.figure(figsize=(12, 8))
 plt.barh(job_titles, salaries, color='skyblue')
 plt.xlabel('Salario Anual Promedio ($)',fontsize=12)
 plt.ylabel('Título del Trabajo',fontsize=12)
-plt.title('Salarios Anuales Promedios por Título del Trabajo', fontsize=14)
+plt.title('Average Annual Salaries by Job Title', fontsize=14)
 plt.gca().invert_yaxis()  # Invertir el eje Y para que los salarios más altos estén arriba
 plt.grid(axis='x', linestyle='--', alpha=0.7)
 plt.yticks(fontsize=10)

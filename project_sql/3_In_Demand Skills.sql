@@ -14,3 +14,26 @@ where job_title_short = 'Data Analyst' AND job_work_from_home = true
 group by skills
 order by demand_count DESC
 limit 5 
+
+[
+  {
+    "skills": "sql",
+    "demand_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "4611"
+  },
+  {
+    "skills": "python",
+    "demand_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "2609"
+  }
+]
